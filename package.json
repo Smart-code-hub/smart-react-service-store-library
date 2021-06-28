@@ -1,0 +1,23 @@
+{
+  "name": "smart-react-service-store-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartcodehubnext/smart-react-service-store-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartcodehubnext/smart-react-service-store-library/issues"
+  },
+  "dependencies": {
+    "prettier": "^1.19.1",
+    "voca": "^1.4.0"
+  },
+  "homepage": "https://github.com/smartcodehubnext/smart-react-service-store-library#readme"
+}
